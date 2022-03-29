@@ -51,7 +51,7 @@ identifier = "projects"
 name = "Projects"
 url = "/projects/"
 [params]
-backgroundPath = "static/uploads/a39517c3-87f3-441e-ad90-ab5e55bc3dc7_1_201_a.jpeg"
+backgroundPath = "/uploads/a39517c3-87f3-441e-ad90-ab5e55bc3dc7_1_201_a.jpeg"
 css = ["css/sourgough.css"]
 dimensionCitations = true
 dimensionsID = "XXXX"
