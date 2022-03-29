@@ -12,6 +12,6 @@ Git_Hub_Repository = ""
 +++
 #### **Northeastern University**
 
-B.S. in Physics
+B.S. in Physics 
 
 minors in Mathematics and Mechanical Engineering
