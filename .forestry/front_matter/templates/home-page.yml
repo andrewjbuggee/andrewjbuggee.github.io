@@ -3,11 +3,13 @@ label: Home Page
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
+  name: Andrew_John_Buggee
+  label: Andrew John Buggee
+  description: "<strong><em>Andrew John Buggee</em></strong>"
 - type: datetime
-  name: date
+  name: Last_Updated_on_3/28/2022
   label: date
+  description: Last Updated
 - type: text
   name: description
   label: description
@@ -16,8 +18,9 @@ fields:
   label: projectLinks
   fields:
   - type: text
-    name: personal repo
+    name: Git_Hub_Repository
     label: personal repo
+    description: Git Hub Repository
   - type: text
     name: theme repo
     label: theme repo
