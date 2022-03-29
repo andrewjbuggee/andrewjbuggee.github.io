@@ -10,6 +10,11 @@ sections:
   create: all
   match: "*"
 - type: directory
+  path: content/about
+  label: About
+  create: all
+  match: "**/*"
+- type: directory
   path: content/publications
   label: Publications
   create: all
@@ -17,11 +22,6 @@ sections:
 - type: directory
   path: content/projects
   label: Projects
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/about
-  label: About
   create: all
   match: "**/*"
 upload_dir: static/uploads
