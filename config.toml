@@ -11,20 +11,15 @@ name = "Google Scholar"
 pre = "fas fa-graduation-cap"
 weight = 1
 [[menu.about]]
-identifier = "medium"
-name = "Medium"
-pre = "fab fa-medium-m"
-weight = 2
-[[menu.about]]
 identifier = "researchgate"
 name = "ResearchGate"
 pre = "fab fa-researchgate"
-weight = 3
+weight = 2
 [[menu.about]]
 identifier = "ordcidid"
 name = "OrcidID"
 pre = "fab fa-orcid"
-weight = 4
+weight = 3
 [[menu.bot]]
 identifier = "linkedin"
 name = "LinkedIn"
