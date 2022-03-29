@@ -27,3 +27,9 @@ fields:
   - type: text
     name: example repo
     label: example repo
+- name: home_page_image
+  type: file
+  config:
+    maxSize: 64
+  label: Home page Image
+  default: "/uploads/a39517c3-87f3-441e-ad90-ab5e55bc3dc7_1_201_a.jpeg"
