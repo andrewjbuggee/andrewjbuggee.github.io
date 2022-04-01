@@ -63,6 +63,30 @@ name = "Projects"
 url = "/projects/"
 
 [params]
+# If you want to implement a Content-Security-Policy, add this section
+[params.csp]
+childsrc = ["'self'"]
+fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
+formaction = ["'self'"]
+framesrc = ["'self'"]
+imgsrc = ["'self'"]
+objectsrc = ["'none'"]
+stylesrc = [
+  "'self'",
+  "'unsafe-inline'",
+  "https://fonts.googleapis.com/",
+  "https://cdn.jsdelivr.net/"
+]
+scriptsrc = [
+  "'self'", 
+  "'unsafe-inline'", 
+  "https://www.google-analytics.com",
+  "https://cdn.jsdelivr.net/"
+]
+prefetchsrc = ["'self'"]
+
+# other stuff
+
 backgroundPath = "/uploads/a39517c3-87f3-441e-ad90-ab5e55bc3dc7_1_201_a.jpeg"
 css = ["css/sourgough.css"]
 dimensionCitations = false
