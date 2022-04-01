@@ -2,7 +2,7 @@
 title: Work Experience
 date: 2020
 photos:
-  Image1: "/images/Untitled.png"
+  Image1: "/uploads/mitll-front-entrance.jpeg"
   Image2: "/images/Untitled.png"
 works:
   work 1:
