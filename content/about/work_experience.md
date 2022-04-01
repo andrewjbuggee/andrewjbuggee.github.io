@@ -1,7 +1,4 @@
 ---
-Andrew_John_Buggee = "Work Experience"
-"Last_Updated_on_3/28/2022" = 2022-04-01T06:00:00Z
-description = "Where did I work?"
 title: Work Expereince
 photos:
     Image1: "/uploads/lincoln_lab_logo.png"
