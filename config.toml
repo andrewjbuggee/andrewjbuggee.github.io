@@ -53,11 +53,11 @@ url = "/projects/"
 [params]
 backgroundPath = "/uploads/a39517c3-87f3-441e-ad90-ab5e55bc3dc7_1_201_a.jpeg"
 css = ["css/sourgough.css"]
-dimensionCitations = true
+dimensionCitations = false
 dimensionsID = "XXXX"
 dimensionsLink = false
 footerOffset = -60
-googleScholar = "XXXX"
+googleScholar = "https://scholar.google.com/citations?user=yjGwDt0AAAAJ&hl=en"
 scholarLink = true
 scopusID = "XXXX"
 scopusLink = false
