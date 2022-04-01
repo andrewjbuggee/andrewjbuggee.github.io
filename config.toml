@@ -3,100 +3,79 @@ languageCode = "en-us"
 relativeURLs = true
 theme = "sourgough-starter"
 title = "Andrew John Buggee"
-
 [markup.goldmark.renderer]
 unsafe = true
-
 [[menu.about]]
 identifier = "ordcidid"
 name = "OrcidID"
 pre = "fab fa-orcid"
-url = ""
-
+weight = 3
 [[menu.about]]
 identifier = "researchgate"
 name = "ResearchGate"
 pre = "fab fa-researchgate"
-url = ""
-
+weight = 2
 [[menu.about]]
 identifier = "googlescholar"
 name = "Google Scholar"
 pre = "fas fa-graduation-cap"
 url = "https://scholar.google.com/citations?user=yjGwDt0AAAAJ&hl=en"
-
+weight = 1
 [[menu.bot]]
 identifier = "github"
 name = "Github"
 pre = "fab fa-github"
 url = "https://github.com/andrewjbuggee/"
-
+weight = 2
 [[menu.bot]]
 identifier = "linkedin"
 name = "LinkedIn"
 pre = "fab fa-linkedin-in"
 url = "https://www.linkedin.com/in/andrew-buggee-69830a191/"
-
+weight = 1
+[[menu.link]]
+identifier = "resume"
+name = "resume"
+weight = 1
 [[menu.link]]
 identifier = "email"
 name = "andrewbuggee@gmail.com"
 url = "mailto:andrewbuggee@gmail.com"
-
-[[menu.link]]
-identifier = "resume"
-name = "resume"
-url = ""
-
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-
-[[menu.main]]
-identifier = "publications"
-name = "Publications"
-url = "/publications/"
-
+weight = 2
 [[menu.main]]
 identifier = "projects"
 name = "Projects"
 url = "/projects/"
-
-[params]
-# If you want to implement a Content-Security-Policy, add this section
+weight = 1
+[[menu.main]]
+identifier = "publications"
+name = "Publications"
+url = "/publications/"
+weight = 2
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 3
 [params.csp]
-childsrc = ["'self'"]
-fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
-formaction = ["'self'"]
-framesrc = ["'self'"]
-imgsrc = ["'self'"]
-objectsrc = ["'none'"]
-stylesrc = [
-  "'self'",
-  "'unsafe-inline'",
-  "https://fonts.googleapis.com/",
-  "https://cdn.jsdelivr.net/"
-]
-scriptsrc = [
-  "'self'", 
-  "'unsafe-inline'", 
-  "https://www.google-analytics.com",
-  "https://cdn.jsdelivr.net/"
-]
-prefetchsrc = ["'self'"]
-
-# other stuff
-
 backgroundPath = "/uploads/a39517c3-87f3-441e-ad90-ab5e55bc3dc7_1_201_a.jpeg"
+childsrc = ["'self'"]
 css = ["css/sourgough.css"]
 dimensionCitations = false
 dimensionsID = "XXXX"
 dimensionsLink = false
+fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
 footerOffset = -60
+formaction = ["'self'"]
+framesrc = ["'self'"]
 googleScholar = "https://scholar.google.com/citations?user=yjGwDt0AAAAJ&hl=en"
+imgsrc = ["'self'"]
+objectsrc = ["'none'"]
+prefetchsrc = ["'self'"]
 scholarLink = true
 scopusID = "XXXX"
 scopusLink = false
-
+scriptsrc = ["'self'", "'unsafe-inline'", "https://www.google-analytics.com", "https://cdn.jsdelivr.net/"]
+stylesrc = ["'self'", "'unsafe-inline'", "https://fonts.googleapis.com/", "https://cdn.jsdelivr.net/"]
 [taxonomies]
 authors = "authors"
