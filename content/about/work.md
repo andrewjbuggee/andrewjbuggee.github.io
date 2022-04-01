@@ -7,7 +7,7 @@ photos:
 works:
   work 1:
     show: true
-    company: MIT Lincoln Laboratory
+    company: Massachusetts Institute of Technology - Lincoln Laboratory
     description: Advanced Capabilities and Technologies Group, Space Systems Division
     year: 2016-2020
   work 2:
