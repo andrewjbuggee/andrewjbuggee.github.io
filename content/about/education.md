@@ -11,12 +11,12 @@ degrees:
     description: B.S. in Physics, minors in Mathematics and Mechanical Engineering
     year: 2011-2016
   University (middle):
-    show: true
+    show: false
     school: National Taiwan University
     description: B.S. in Chemistry
     year: "2023"
   University (last):
-    show: true
+    show: false
     school: National Taiwan University
     description: B.S. in Chemistry
     year: "2023"
