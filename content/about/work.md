@@ -1,5 +1,5 @@
 ---
-title: "Education"
+title: "Work Experience"
 date: 2020
 draft: false
 
@@ -8,20 +8,20 @@ photos:
     Image2: /images/Untitled.png
 
 
-degrees:
-    University (top):
+works:
+    work 1:
         show: True
-        school: National Taiwan University
+        company: NWS
         description: B.S. in Chemistry
         year: 2023
-    University (middle):
+    work 2:
         show: True
-        school: National Taiwan University
+        company: National Taiwan University
         description: B.S. in Chemistry
         year: 2023
-    University (last):
+    work 3:
         show: True
-        school: National Taiwan University
+        company: National Taiwan University
         description: B.S. in Chemistry
         year: 2023
 ---
