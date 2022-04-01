@@ -33,5 +33,3 @@ fields:
     maxSize: 64
   label: Home page Image
   default: "/uploads/a39517c3-87f3-441e-ad90-ab5e55bc3dc7_1_201_a.jpeg"
-pages:
-- content/about/my_education.md
