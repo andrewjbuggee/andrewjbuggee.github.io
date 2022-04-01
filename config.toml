@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://andrewjbuggee.netlify.app"
 languageCode = "en-us"
 relativeURLs = true
 theme = "sourgough-starter"
