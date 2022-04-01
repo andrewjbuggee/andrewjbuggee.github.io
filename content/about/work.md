@@ -11,12 +11,12 @@ works:
     description: Advanced Capabilities and Technologies Group, Space Systems Division
     year: 2016-2020
   work 2:
-    show: true
+    show: false
     company: National Taiwan University
     description: B.S. in Chemistry
     year: "2023"
   work 3:
-    show: true
+    show: false
     company: National Taiwan University
     description: B.S. in Chemistry
     year: "2023"
