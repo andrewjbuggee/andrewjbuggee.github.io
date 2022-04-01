@@ -55,11 +55,11 @@ backgroundPath = "/uploads/a39517c3-87f3-441e-ad90-ab5e55bc3dc7_1_201_a.jpeg"
 css = ["css/sourgough.css"]
 dimensionCitations = true
 dimensionsID = "XXXX"
-dimensionsLink = true
+dimensionsLink = false
 footerOffset = -60
 googleScholar = "XXXX"
 scholarLink = true
 scopusID = "XXXX"
-scopusLink = true
+scopusLink = false
 [taxonomies]
 authors = "authors"
