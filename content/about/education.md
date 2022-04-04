@@ -3,7 +3,7 @@ title: Education
 date: 2020
 photos:
   Image1: "/uploads/aiaa-at-huntsville.jpeg"
-  Image2: "/images/Untitled.png"
+  Image2: "/uploads/andrew-talking-to-kids-about-rockets.jpeg"
 degrees:
   University (top):
     show: true
