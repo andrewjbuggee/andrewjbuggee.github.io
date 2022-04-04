@@ -2,7 +2,7 @@
 title: Education
 date: 2020
 photos:
-  Image1: "/images/Untitled.png"
+  Image1: "/uploads/aiaa-at-huntsville.jpeg"
   Image2: "/images/Untitled.png"
 degrees:
   University (top):
