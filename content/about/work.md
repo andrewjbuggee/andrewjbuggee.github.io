@@ -2,8 +2,8 @@
 title: Work Experience
 date: 2020
 photos:
-  Image1: "/uploads/mitll-front-entrance.jpeg"
-  Image2: "/images/Untitled.png"
+  Image1: "/uploads/lincoln_lab_logo.png"
+  Image2: "/uploads/mitll-front-entrance.jpeg"
 works:
   work 1:
     show: true
