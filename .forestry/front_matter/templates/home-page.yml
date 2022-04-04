@@ -35,3 +35,4 @@ fields:
   default: "/uploads/ea2eb693-37d5-41e4-876f-07cd2202bcaa.jpeg"
 pages:
 - content/projects/baking.md
+- content/projects/cappuccini.md
