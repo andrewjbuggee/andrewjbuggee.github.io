@@ -1,7 +1,6 @@
 +++
 date = 2021-01-16T21:51:40Z
 description = "I make cappuccini!"
-draft = true
 title = "Cappucini"
 [projectLinks]
 "example repo" = "https://github.com/jack-alope/sourgough-example"
