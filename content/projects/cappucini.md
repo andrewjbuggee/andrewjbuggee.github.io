@@ -1,6 +1,6 @@
 +++
 date = 2021-01-16T21:51:40Z
-description = "I make bread!"
+description = "I make cappuccini!"
 draft = true
 title = "Cappucini"
 [projectLinks]
@@ -9,4 +9,4 @@ title = "Cappucini"
 "theme repo" = "https://github.com/jack-alope/sougough-starter"
 
 +++
-I make bread!
+I make cappuccini!
